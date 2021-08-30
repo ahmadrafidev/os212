@@ -1,8 +1,13 @@
-# Log Format
+# START Mon Aug 30 WIB 2021
+#############################################
 # https://osp4diss.vlsm.org/ETC/logCodes.txt
-# ZCZC WEEK# MINUTES LogCode Description
+#############################################
+# Log Format
+# ZCZC WEEK# LogCode Description
 
 L00 W00 General, etc.
 L01 W00 SCELE/Discord related
 L02 W00 ZOOM meetings related
 L03 W00 GitHub related
+L08 AsDos: asking to one of ASDOS.
+L32 W00 Youtube: study OS from Neso Academy.

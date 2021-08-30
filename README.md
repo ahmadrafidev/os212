@@ -1,4 +1,4 @@
-# Ahmad Rafi's OS Repo
+# Ahmad Rafi Wirana's OS Repository ✌️
 Halo, this is Ahmad Rafi Wirana from Operating System A (NPM: 2006595873)
 
 ## Link
