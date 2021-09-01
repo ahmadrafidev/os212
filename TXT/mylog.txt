@@ -11,4 +11,5 @@ ZCZC W00 120 L02 ZOOM meetings related
 ZCZC W00 120 L03 GitHub related
 ZCZC W00 20 L08 AsDos: asking to one of ASDOS.
 ZCZC W00 120 L32 Youtube: study OS from Neso Academy.
+ZCZC W00 60 L32 Youtube: study OS from Neso Academy.
 ZCZC W00 30 L32 Youtube: study OS from Neso Academy.
