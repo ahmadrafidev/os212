@@ -20,3 +20,4 @@ ZCZC W00 5 L13 Assignment #03
 ZCZC W00 5 L14 Assignment #04
 ZCZC W00 60 L15 Assignment #05
 ZCZC W00 10 L70 Finishing programming exercise for DDP2
+ZCZC W01 5 L22 Quiz 
