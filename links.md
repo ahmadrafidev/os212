@@ -1,3 +1,6 @@
+---
+permalink: /links/
+---
 # LINK PAGES
 
 Hello, this is a page for some links that I compiled 
