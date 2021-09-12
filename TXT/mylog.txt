@@ -28,3 +28,4 @@ ZCZC W01 30 L13 Assignment #03 The ATM Way: GSGS and Read
 ZCZC W01 120 L14 Assignment #04 Dress Up Your Virtual Guest
 ZCZC W01 30 L15 Assignment #05 SSH Keys for Git
 ZCZC W01 30 L16 Assignment #06 Dress Up My Github Page
+ZCZC W01 10 L17 Assignment #07 Update mylog.txt
