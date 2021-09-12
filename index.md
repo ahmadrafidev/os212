@@ -5,4 +5,4 @@ This is my repository to compiled my assignment
 ## Important Links
 🧑‍💻[Repo Site](https://ahmadrafidev.github.io/os212/) \
 🗄[My Log](https://ahmadrafidev.github.io/os212/TXT/mylog.txt) \
-🔗[Links](https://ahmadrafidev.github.io/os212/links.md)
+🔗[Links](https://ahmadrafidev.github.io/os212/links)
