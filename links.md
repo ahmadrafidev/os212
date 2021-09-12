@@ -1,4 +1,6 @@
-# This is a compiled LINKS for Operating System related
+# LINK PAGES
 
+Hello, this is a page for some links that I compiled 
+to help me understand Operating System materials
 ## W00
 
