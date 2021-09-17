@@ -32,5 +32,9 @@ A deep understanding about threats in operating system and how to ensures an ope
 [Types of Program Threats](https://www.i2tutorials.com/os-introduction/os-types-of-program-threats/)\
 Types of program threats in operating system.
 
+[C Programming Tutorial](https://www.learn-c.org/)
+Because there are demos that can be done only with C programming language, this web\
+really help me out with C programming syntax and stuff.
+
 
 
