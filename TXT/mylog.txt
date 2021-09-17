@@ -31,5 +31,9 @@ ZCZC W01 30 L16 Assignment #06 Dress Up My Github Page
 ZCZC W01 10 L17 Assignment #07 Update mylog.txt
 ZCZC W01 60 L18 Assignment #08 Learn more about awk, sed, bash, regex
 ZCZC W02 60 L11 Assignment #01 Reading Chapter 16 & 17
+ZCZC W02 10 L14 Assignment #04 Generate GnuPG Key Pair
+ZCZC W02 10 15 Assignment #05 List of all GnuPG Keys
+ZCZC W02 10 L16 Assignment #06 Importing ospubkey.txt Key
+ZCZC W02 10 L18 Assignment #08 8 Export YOUR PUBLIC KEY to your repo file ”TXT/mypubkey.txt”
 ZCZC W02 30 L19 Assignment #09 Adding important links to for my OS materials
 ZCZC W02 30 L20 Assignment #10 Review my peer links
