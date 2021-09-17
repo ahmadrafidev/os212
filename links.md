@@ -1,5 +1,5 @@
 ---
-permalink: /links/
+permalink: /LINKS/
 ---
 # LINK PAGES
 
