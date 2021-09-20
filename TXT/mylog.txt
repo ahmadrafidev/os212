@@ -46,3 +46,4 @@ ZCZC W02 10 L09 Assignment in General Write a simple "myscript.sh" script to gen
 SHA256SUM.asc.
 ZCZC W03 20 L22 Quiz
 ZCZC W03 60 L11 Assignment #01 Read OSC10 chapter 13 + 14 +15
+ZCZC W03 10 L14 Assignment #04 Check my bash_aliases 
