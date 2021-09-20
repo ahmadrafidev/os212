@@ -48,3 +48,7 @@ ZCZC W03 20 L22 Quiz
 ZCZC W03 60 L11 Assignment #01 Read OSC10 chapter 13 + 14 +15
 ZCZC W03 10 L14 Assignment #04 Check my bash_aliases 
 ZCZC W03 30 15 Assignment #05 Add/Create an Extra Virtual Disk
+ZCZC W03 30 L16 Assignment #06 Adding important links to for my OS materials
+ZCZC W03 30 L17 Assignment #07 Review my neighbor links
+ZCZC W03 5 L18 Assignment #08 Update mylog.txt
+ZCZC W03 5 L19 Assignment #09 Submit my assignment

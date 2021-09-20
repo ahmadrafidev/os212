@@ -5,7 +5,7 @@ permalink: /LINKS/
 
 Hello, this is a page for some links that I compiled 
 to help me understand Operating System materials. The 
-Links will be updated.
+links will be updated.
 ## W00
 
 ## W01
@@ -38,4 +38,18 @@ really help me out with C programming syntax and stuff.
 
 ## W03
 
+[Nano](https://linuxize.com/post/how-to-use-nano-text-editor/)\
+Besides Vim, there is a great text editor in linux. Try this and your life will\
+become easier.
 
+[File Systems in OS](https://www.guru99.com/file-systems-operating-system.html)\
+An introduction about file systems in operating system.
+
+[Understanding File Management System in Operating System](https://princeabhishek410.medium.com/understanding-file-management-system-in-operating-system-4c7fbfc306f2)\
+A little show about file management in OS.
+
+[File System Management](http://faculty.salina.k-state.edu/tim/ossg/File_sys/file_sys.html)\
+Deep understanding about file management in Operating System.
+
+[Learn Bash Script?](https://dev.to/ahmedmusallam/bash-from-scratch-learn-enough-bash-to-write-your-own-scripts-189f)\
+An easy way to learn bash from scratch.
