@@ -54,3 +54,4 @@ ZCZC W03 30 L16 Assignment #06 Adding important links to for my OS materials
 ZCZC W03 30 L17 Assignment #07 Review my neighbor links
 ZCZC W03 5 L18 Assignment #08 Update mylog.txt
 ZCZC W03 5 L19 Assignment #09 Submit my assignment
+ZCZC W04 10 L14 Assignment #04 Install Package List 2 (TLPI)
