@@ -63,3 +63,4 @@ ZCZC W04 30 L16 Assignment #06 Adding important links for my OS materials
 ZCZC W04 10 L17 Assignment #07 Review my neighbor links
 ZCZC W04 5 L18 Assignment #08 Update mylog.txt
 ZCZC W04 5 L19 Assignment #09 Submit my assignment to Github through GGG mantra
+ZCZC W05 45 L11 Assignment #01 Read OSC10 chapter 10
