@@ -91,4 +91,12 @@ Pointers are memory addresses of data objects in the operating system kernel or 
 
 ## W05
 
+[What is Virtual Memory](https://www.guru99.com/virtual-memory-in-operating-system.html)\
+A short introduction about what is virtual memory. 
+
+[Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf)\
+Because memory is too connected with pointer, maybe this article can help
+you out to understand about pointer.
+
+
 
