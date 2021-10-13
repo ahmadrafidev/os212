@@ -75,6 +75,7 @@ ZCZC W05 5 L19 Assignment #09 Submit my assignment to Github through GGG mantra
 ZCZC W06 60 L11 Assignment #01 Read OSC10 chapter 3,4
 ZCZC W06 60 L12 Assignment #02 Try demo W06
 ZCZC W06 120 L13 Assignment #03 Try Previous MidTem Problems
+ZCZC W06 30 L14 Assignment #04 Fork and Shared Memory
 ZCZC W06 30 L15 Assignment #05 Adding important links for my OS materials
 ZCZC W06 10 L16 Assignment #06 Adding TIPS & SUGGESTION FOR OS CLASS
 ZCZC W06 10 L17 Assignment #07 Review my neighbor links
