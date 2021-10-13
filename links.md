@@ -98,5 +98,16 @@ A short introduction about what is virtual memory.
 Because memory is too connected with pointer, maybe this article can help
 you out to understand about pointer.
 
+## W06
+
+[What is Fork?](https://en.wikipedia.org/wiki/Fork_(system_call))\
+What is fork?
+
+[Fork System Call](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html)\
+Understanding more about fork.
+
+[C Compiler Online](https://www.onlinegdb.com/online_c_compiler)\
+Because some quizzed need C as an answer, I think this site is helpful because if u setting up C compiler
+on local it needs more time.
 
 
