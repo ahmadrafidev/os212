@@ -111,3 +111,18 @@ Because some quizzed need C as an answer, I think this site is helpful because i
 on local it needs more time.
 
 ## W07
+
+[Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)\
+introduction about process sync in OS.
+
+[Process Synchronization: Critical Section Problem in OS](https://www.guru99.com/process-synchronization.html)\
+process synchronization but with problems.
+
+[Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)\
+intro to process sync from geeks.
+
+[Process Synchronization in C/C++](https://www.tutorialspoint.com/process-synchronization-in-c-cplusplus)\
+Sneak peek about process sync in programming language.
+
+[Concurrency Synchronization](https://go101.org/article/concurrent-synchronization-more.html)\
+process sync that important in programming, with example in Golang.

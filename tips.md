@@ -21,4 +21,12 @@ material you want to get.
 Although gsgs is good, I think lecturer must explain material with your own way or style because I am myself as a student need
 some kind of guidance from the "master" itself and gsgs is not supported that kind of guidance.
 
+## Tips number three: FINISH THE JOB.
+Finish the assignment as soon as possible. The reason to do this is very simple: to make your mind clear and you can
+continue playing games or do something else.
+
+## Suggestion number three: Make class more interactive, oncam is a MUST!
+I think because the class go online, some student don't appreciate the presence of lecturer. So make every class oncam
+is one of a ways to make student respect lecturer more.
+
 
