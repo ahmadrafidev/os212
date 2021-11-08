@@ -29,4 +29,11 @@ continue playing games or do something else.
 I think because the class go online, some student don't appreciate the presence of lecturer. So make every class oncam
 is one of a ways to make student respect lecturer more.
 
+## Tips number four: Read Text Book and do Demos
+read the book material and do demos is making your ways to get the maximal output of OS things.
+
+## Suggestion number four: Detail is important!
+In OS assignment, you will face more step by step to finish assignment and the step is connected to one another. So be detail
+because if you past one step, you will or must to take the first step again.
+
 

@@ -126,3 +126,29 @@ Sneak peek about process sync in programming language.
 
 [Concurrency Synchronization](https://go101.org/article/concurrent-synchronization-more.html)\
 process sync that important in programming, with example in Golang.
+
+## W08
+
+[Linux From Scratch](https://www.linuxfromscratch.org/index.html)\
+lfs introduction and many more
+
+[How to build Linux From Scratch (LFS) 10.1](https://www.youtube.com/playlist?list=PLyc5xVO2uDsAlIkKBIGauDQ6LejoQovyL)\
+article to build lfs.
+
+[Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)\
+acticle to build lfs from Mr. RMS suggestion
+
+[Linux From Scratch Version 11.0](https://www.linuxfromscratch.org/lfs/downloads/11.0/LFS-BOOK-11.0.pdf)\
+lfs 11 version pdf
+
+[Operating System Scheduling algorithms](https://www.tutorialspoint.com/operating_system/os_process_scheduling_algorithms.htm)\
+scheduling in OS
+
+[CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)\
+cpu scheduling in OS
+
+[Process Scheduling: Long, Medium, Short Term Scheduler](https://www.guru99.com/process-scheduling.html)\
+process scheduling in OS
+
+[throughput](https://www.techtarget.com/searchnetworking/definition/throughput)\
+what is throughput?
