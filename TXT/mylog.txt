@@ -90,8 +90,13 @@ ZCZC W07 10 L17 Assignment #07 Review my neighbor links
 ZCZC W07 5 L18 Assignment #08 Update mylog.txt
 ZCZC W07 5 L19 Assignment #09 Submit my assignment to Github through GGG mantra
 ZCZC W08 80 L11 Assignment #01 Read OSC10 chapter 5
+ZCZC W07 60 L12 Assignment #02 Try demo W08
+ZCZC W07 60 L13 Assignment #03 Try Previous MidTerm Problems
+ZCZC W08 60 L14 Assignment #04 Linux From Scratch 11.0 Chapter 01-04
+ZCZC W08 70 L14 Assignment #05 Linux From Scratch 11.0 Chapter 05
 ZCZC W08 40 L15 Assignment #06 Adding important links for my OS materials
 ZCZC W08 20 L16 Assignment #07 Adding TIPS & SUGGESTION FOR OS CLASS
 ZCZC W08 10 L18 Assignment #08 Review my neighbor links
 ZCZC W08 10 L19 Assignment #09 Update mylog.txt
-ZCZC W08 5 L20 Assignment #010 Submit my assignment to Github through GGG mantra
+ZCZC W08 5 L20 Assignment #10 Submit my assignment to Github through GGG mantra
+ZCZC W08 100 L09 LFS 11.0 Chapter 06
