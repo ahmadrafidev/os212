@@ -36,4 +36,6 @@ read the book material and do demos is making your ways to get the maximal outpu
 In OS assignment, you will face more step by step to finish assignment and the step is connected to one another. So be detail
 because if you past one step, you will or must to take the first step again.
 
+## Suggestion number five: give plus points
+why there is a jorok points but no plus point?
 

@@ -1,4 +1,4 @@
----
+git@github.com:ahmadrafidev/os212.git---
 permalink: /LINKS/
 ---
 # LINK PAGES
@@ -152,3 +152,7 @@ process scheduling in OS
 
 [throughput](https://www.techtarget.com/searchnetworking/definition/throughput)\
 what is throughput?
+
+## W09
+[Chown Command Linux](https://linuxize.com/post/linux-chown-command/)\
+chown command in linux
